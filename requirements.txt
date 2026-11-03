@@ -2,3 +2,8 @@ streamlit
 requests
 pillow
 numpy
+opencv-python
+paddlepaddle
+paddleocr
+llama-cpp-python
+huggingface-hub
